@@ -41,8 +41,49 @@ This assignment involves implementing a static webpage comprising multiple secti
 ## How to Run Locally
 
 1. Clone the repository:
-   git clone <repo-url>
+   git clone <https://github.com/ananya1906/Figma-UI>
    cd <repo-folder>
+
+   
+2. Open `index.html` in any modern web browser (Chrome, Firefox, Safari).
+
+3. No server or build tools are required.
+
+---
+
+## Folder Structure
+
+Figma-UI/
+│
+├── index.html                # Main HTML file
+│
+├── css/
+│   └── style.css             # CSS styles for the entire website
+│
+├── js/
+│   └── main.js               # JavaScript for interactivity (including slider/carousel)
+│
+├── assets/
+│   ├── icons/                # Social/media/other icons (PNG extracted from Figma)
+│   │    ├── email.png
+│   │    ├── facebook.png
+│   │    ├── linkedin.png
+│   │    ├── location.png
+│   │    ├── phone.png
+│   │    └── twitter.png
+│   ├── images/               # Other images used in the design
+│   └── videos/               # Any video assets, if the design uses them
+│
+└── README.md                 # Project description, instructions, tech stack
+
+## Known Issues or Limitations
+
+- Mobile responsiveness is basic and may need improvements.
+- No automated testing included.
+- Slider uses jQuery plugin, other interactive features are minimal.
+
+
+
 
 
 
