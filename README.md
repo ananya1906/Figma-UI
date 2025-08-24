@@ -53,6 +53,7 @@ This assignment involves implementing a static webpage comprising multiple secti
 
 ## Folder Structure
 
+
 Figma-UI/
 │
 ├── index.html                # Main HTML file
@@ -75,6 +76,8 @@ Figma-UI/
 │   └── videos/               # Any video assets, if the design uses them
 │
 └── README.md                 # Project description, instructions, tech stack
+
+
 
 ## Known Issues or Limitations
 
